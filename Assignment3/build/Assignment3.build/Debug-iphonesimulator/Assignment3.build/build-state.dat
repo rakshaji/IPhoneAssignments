@@ -1,0 +1,305 @@
+TAssignment3
+v7
+r0
+t434476855.565956
+cCheck dependencies
+cProcessInfoPlistFile "/Users/Raksha/DEVELOPMENT/SDSU/CS0646- IPhone development/Assignment3/build/Debug-iphonesimulator/Assignment3.app/Info.plist" Assignment3/Assignment3-Info.plist
+cProcessPCH /var/folders/k5/0k2sfvhj7113y4nwtk9xqy8h0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Assignment3-Prefix-etujxirribyrulekvhrfyjgbejcl/Assignment3-Prefix.pch.gch Assignment3/Assignment3-Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Assignment3.build/Debug-iphonesimulator/Assignment3.build/Objects-normal/i386/ViewController.o "/Users/Raksha/DEVELOPMENT/SDSU/CS0646- IPhone development/Assignment3/Assignment3/ViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Assignment3.build/Debug-iphonesimulator/Assignment3.build/Objects-normal/i386/AppDelegate.o "/Users/Raksha/DEVELOPMENT/SDSU/CS0646- IPhone development/Assignment3/Assignment3/AppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Assignment3.build/Debug-iphonesimulator/Assignment3.build/Objects-normal/i386/main.o "/Users/Raksha/DEVELOPMENT/SDSU/CS0646- IPhone development/Assignment3/Assignment3/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCpResource build/Debug-iphonesimulator/Assignment3.app/Images.xcassets Assignment3/Images.xcassets
+cCopyStringsFile "/Users/Raksha/DEVELOPMENT/SDSU/CS0646- IPhone development/Assignment3/build/Debug-iphonesimulator/Assignment3.app/en.lproj/InfoPlist.strings" Assignment3/en.lproj/InfoPlist.strings
+cCpResource build/Debug-iphonesimulator/Assignment3.app/Base.lproj/Main.storyboard Assignment3/Base.lproj/Main.storyboard
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk
+c000000004D5C9B4E0000000000000110
+t1297914702
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004D54CFFA00000000002999B0
+t1297403898
+s2726320
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004D54CFE5000000000029DA70
+t1297403877
+s2742896
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004D54CFB80000000000001466
+t1297403832
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004D5615B40000000000000AA1
+t1297487284
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004D5616030000000000766870
+t1297487363
+s7759984
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/usr/include/Availability.h
+c000000004D4F7A2B0000000000001B19
+t1297054251
+s6937
+
+N/Users/Raksha/DEVELOPMENT/SDSU/CS0646- IPhone development/Assignment3/Assignment3/AppDelegate.h
+c00000000542C741E0000000000000124
+t1412199454
+s292
+i<UIKit/UIKit.h>
+
+N/Users/Raksha/DEVELOPMENT/SDSU/CS0646- IPhone development/Assignment3/Assignment3/AppDelegate.m
+c00000000542C948200000000000007E6
+t1412207746
+s2022
+i"AppDelegate.h"
+
+N/Users/Raksha/DEVELOPMENT/SDSU/CS0646- IPhone development/Assignment3/Assignment3/Assignment3-Prefix.pch
+c00000000542C735B0000000000000158
+t1412199259
+s344
+i<Availability.h>
+i<UIKit/UIKit.h>
+i<Foundation/Foundation.h>
+
+N/Users/Raksha/DEVELOPMENT/SDSU/CS0646- IPhone development/Assignment3/Assignment3/Base.lproj/Main.storyboard
+c00000000542CCD7D0000000000001978
+t1412222333
+s6520
+
+N/Users/Raksha/DEVELOPMENT/SDSU/CS0646- IPhone development/Assignment3/Assignment3/Images.xcassets
+c00000000542C735B0000000000000088
+t1412199259
+s136
+
+N/Users/Raksha/DEVELOPMENT/SDSU/CS0646- IPhone development/Assignment3/Assignment3/ViewController.h
+c00000000542C830100000000000002ED
+t1412203265
+s749
+i<UIKit/UIKit.h>
+
+N/Users/Raksha/DEVELOPMENT/SDSU/CS0646- IPhone development/Assignment3/Assignment3/ViewController.m
+c00000000542CC7350000000000000A23
+t1412220725
+s2595
+i"ViewController.h"
+
+N/Users/Raksha/DEVELOPMENT/SDSU/CS0646- IPhone development/Assignment3/Assignment3/en.lproj/InfoPlist.strings
+c00000000542C735B000000000000002D
+t1412199259
+s45
+
+N/Users/Raksha/DEVELOPMENT/SDSU/CS0646- IPhone development/Assignment3/Assignment3/main.m
+c00000000542C735B0000000000000160
+t1412199259
+s352
+i<UIKit/UIKit.h>
+i"AppDelegate.h"
+
+N/Users/Raksha/DEVELOPMENT/SDSU/CS0646- IPhone development/Assignment3/build/Assignment3.build/Debug-iphonesimulator/Assignment3.build/Objects-normal/i386/AppDelegate.o
+t2
+s0
+
+N/Users/Raksha/DEVELOPMENT/SDSU/CS0646- IPhone development/Assignment3/build/Assignment3.build/Debug-iphonesimulator/Assignment3.build/Objects-normal/i386/Assignment3.LinkFileList
+c0000000054355FB300000000000001F4
+t1412784051
+s500
+
+N/Users/Raksha/DEVELOPMENT/SDSU/CS0646- IPhone development/Assignment3/build/Assignment3.build/Debug-iphonesimulator/Assignment3.build/Objects-normal/i386/ViewController.o
+t2
+s0
+
+N/Users/Raksha/DEVELOPMENT/SDSU/CS0646- IPhone development/Assignment3/build/Assignment3.build/Debug-iphonesimulator/Assignment3.build/Objects-normal/i386/main.o
+t2
+s0
+
+N/Users/Raksha/DEVELOPMENT/SDSU/CS0646- IPhone development/Assignment3/build/Debug-iphonesimulator/Assignment3.app
+t1412784053
+s238
+
+N/Users/Raksha/DEVELOPMENT/SDSU/CS0646- IPhone development/Assignment3/build/Debug-iphonesimulator/Assignment3.app.dSYM
+t2
+s0
+
+N/Users/Raksha/DEVELOPMENT/SDSU/CS0646- IPhone development/Assignment3/build/Debug-iphonesimulator/Assignment3.app/Assignment3
+t2
+s0
+
+N/Users/Raksha/DEVELOPMENT/SDSU/CS0646- IPhone development/Assignment3/build/Debug-iphonesimulator/Assignment3.app/Base.lproj/Main.storyboard
+t1412784053
+s6520
+
+N/Users/Raksha/DEVELOPMENT/SDSU/CS0646- IPhone development/Assignment3/build/Debug-iphonesimulator/Assignment3.app/Images.xcassets
+t1412784053
+s136
+
+N/Users/Raksha/DEVELOPMENT/SDSU/CS0646- IPhone development/Assignment3/build/Debug-iphonesimulator/Assignment3.app/Info.plist
+t1412784051
+s850
+
+N/Users/Raksha/DEVELOPMENT/SDSU/CS0646- IPhone development/Assignment3/build/Debug-iphonesimulator/Assignment3.app/PkgInfo
+t1412784051
+s8
+
+N/Users/Raksha/DEVELOPMENT/SDSU/CS0646- IPhone development/Assignment3/build/Debug-iphonesimulator/Assignment3.app/en.lproj/InfoPlist.strings
+t1412784055
+s42
+
+N/var/folders/k5/0k2sfvhj7113y4nwtk9xqy8h0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Assignment3-Prefix-etujxirribyrulekvhrfyjgbejcl/Assignment3-Prefix.pch.gch
+t1412784053
+s15846832
+
+NAssignment3/Assignment3-Info.plist
+c00000000542C735B00000000000004D0
+t1412199259
+s1232
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies434476850#434476851#0(0"0(0#1#0"17195809280#0"0#
+
+CCompileC build/Assignment3.build/Debug-iphonesimulator/Assignment3.build/Objects-normal/i386/AppDelegate.o "/Users/Raksha/DEVELOPMENT/SDSU/CS0646- IPhone development/Assignment3/Assignment3/AppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s434476853.495885
+e434476853.744265
+r0
+xCompileC
+xbuild/Assignment3.build/Debug-iphonesimulator/Assignment3.build/Objects-normal/i386/AppDelegate.o
+x/Users/Raksha/DEVELOPMENT/SDSU/CS0646- IPhone development/Assignment3/Assignment3/AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+oIn file included from /Users/Raksha/DEVELOPMENT/SDSU/CS0646- IPhone development/Assignment3/Assignment3/AppDelegate.m:9:
+o/Users/Raksha/DEVELOPMENT/SDSU/CS0646- IPhone development/Assignment3/Assignment3/AppDelegate.h:13: error: expected a property attribute before 'strong'
+lSLF07#2@103"Compile /Users/Raksha/DEVELOPMENT/SDSU/CS0646- IPhone development/Assignment3/Assignment3/AppDelegate.m434476853#434476853#0(274"In file included from /Users/Raksha/DEVELOPMENT/SDSU/CS0646- IPhone development/Assignment3/Assignment3/AppDelegate.m:9:/Users/Raksha/DEVELOPMENT/SDSU/CS0646- IPhone development/Assignment3/Assignment3/AppDelegate.h:13: error: expected a property attribute before 'strong'1(4@45"Expected a property attribute before 'strong'434476853#121#153#2(7@117"In file included from /Users/Raksha/DEVELOPMENT/SDSU/CS0646- IPhone development/Assignment3/Assignment3/AppDelegate.m434476853#18446744073709551615#0#0(6@95"/Users/Raksha/DEVELOPMENT/SDSU/CS0646- IPhone development/Assignment3/Assignment3/AppDelegate.m433900546#9#0#9#0#0"0(13@144"Expected a property attribute before 'strong' in /Users/Raksha/DEVELOPMENT/SDSU/CS0646- IPhone development/Assignment3/Assignment3/AppDelegate.h434476853#18446744073709551615#0#0(6@95"/Users/Raksha/DEVELOPMENT/SDSU/CS0646- IPhone development/Assignment3/Assignment3/AppDelegate.h433892254#13#0#13#0#0"0(6@95"/Users/Raksha/DEVELOPMENT/SDSU/CS0646- IPhone development/Assignment3/Assignment3/AppDelegate.h433892254#13#0#13#0#19"expected * before *0(0#0#95"/Users/Raksha/DEVELOPMENT/SDSU/CS0646- IPhone development/Assignment3/Assignment3/AppDelegate.m4317954048#2416"    cd "/Users/Raksha/DEVELOPMENT/SDSU/CS0646- IPhone development/Assignment3"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wunused-function -Wunused-variable -Wshorten-64-to-32 -Wundeclared-selector -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/Users/Raksha/DEVELOPMENT/SDSU/CS0646- IPhone development/Assignment3/build/Assignment3.build/Debug-iphonesimulator/Assignment3.build/Assignment3-generated-files.hmap" "-I/Users/Raksha/DEVELOPMENT/SDSU/CS0646- IPhone development/Assignment3/build/Assignment3.build/Debug-iphonesimulator/Assignment3.build/Assignment3-own-target-headers.hmap" "-I/Users/Raksha/DEVELOPMENT/SDSU/CS0646- IPhone development/Assignment3/build/Assignment3.build/Debug-iphonesimulator/Assignment3.build/Assignment3-all-target-headers.hmap" -iquote "/Users/Raksha/DEVELOPMENT/SDSU/CS0646- IPhone development/Assignment3/build/Assignment3.build/Debug-iphonesimulator/Assignment3.build/Assignment3-project-headers.hmap" "-F/Users/Raksha/DEVELOPMENT/SDSU/CS0646- IPhone development/Assignment3/build/Debug-iphonesimulator" "-I/Users/Raksha/DEVELOPMENT/SDSU/CS0646- IPhone development/Assignment3/build/Debug-iphonesimulator/include" "-I/Users/Raksha/DEVELOPMENT/SDSU/CS0646- IPhone development/Assignment3/build/Assignment3.build/Debug-iphonesimulator/Assignment3.build/DerivedSources/i386" "-I/Users/Raksha/DEVELOPMENT/SDSU/CS0646- IPhone development/Assignment3/build/Assignment3.build/Debug-iphonesimulator/Assignment3.build/DerivedSources" -include /var/folders/k5/0k2sfvhj7113y4nwtk9xqy8h0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Assignment3-Prefix-etujxirribyrulekvhrfyjgbejcl/Assignment3-Prefix.pch -c "/Users/Raksha/DEVELOPMENT/SDSU/CS0646- IPhone development/Assignment3/Assignment3/AppDelegate.m" -o "/Users/Raksha/DEVELOPMENT/SDSU/CS0646- IPhone development/Assignment3/build/Assignment3.build/Debug-iphonesimulator/Assignment3.build/Objects-normal/i386/AppDelegate.o"1#
+
+CCompileC build/Assignment3.build/Debug-iphonesimulator/Assignment3.build/Objects-normal/i386/ViewController.o "/Users/Raksha/DEVELOPMENT/SDSU/CS0646- IPhone development/Assignment3/Assignment3/ViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s434476853.494567
+e434476853.745659
+r0
+xCompileC
+xbuild/Assignment3.build/Debug-iphonesimulator/Assignment3.build/Objects-normal/i386/ViewController.o
+x/Users/Raksha/DEVELOPMENT/SDSU/CS0646- IPhone development/Assignment3/Assignment3/ViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+oIn file included from /Users/Raksha/DEVELOPMENT/SDSU/CS0646- IPhone development/Assignment3/Assignment3/ViewController.m:9:
+o/Users/Raksha/DEVELOPMENT/SDSU/CS0646- IPhone development/Assignment3/Assignment3/ViewController.h:12: error: expected a property attribute before 'weak'
+o/Users/Raksha/DEVELOPMENT/SDSU/CS0646- IPhone development/Assignment3/Assignment3/ViewController.h:13: error: expected a property attribute before 'weak'
+o/Users/Raksha/DEVELOPMENT/SDSU/CS0646- IPhone development/Assignment3/Assignment3/ViewController.h:14: error: expected a property attribute before 'weak'
+o/Users/Raksha/DEVELOPMENT/SDSU/CS0646- IPhone development/Assignment3/Assignment3/ViewController.h:15: error: expected a property attribute before 'strong'
+o/Users/Raksha/DEVELOPMENT/SDSU/CS0646- IPhone development/Assignment3/Assignment3/ViewController.h:17: error: expected a property attribute before 'strong'
+o/Users/Raksha/DEVELOPMENT/SDSU/CS0646- IPhone development/Assignment3/Assignment3/ViewController.h:19: error: expected a property attribute before 'strong'
+o/Users/Raksha/DEVELOPMENT/SDSU/CS0646- IPhone development/Assignment3/Assignment3/ViewController.h:21: error: expected a property attribute before 'strong'
+o/Users/Raksha/DEVELOPMENT/SDSU/CS0646- IPhone development/Assignment3/Assignment3/ViewController.h:23: error: expected a property attribute before 'strong'
+o/Users/Raksha/DEVELOPMENT/SDSU/CS0646- IPhone development/Assignment3/Assignment3/ViewController.m: In function '-[ViewController viewDidLoad]':
+o/Users/Raksha/DEVELOPMENT/SDSU/CS0646- IPhone development/Assignment3/Assignment3/ViewController.m:21: warning: 'ViewController' may not respond to '-saveFilePath'
+o/Users/Raksha/DEVELOPMENT/SDSU/CS0646- IPhone development/Assignment3/Assignment3/ViewController.m:21: warning: (Messages without a matching method signature
+o/Users/Raksha/DEVELOPMENT/SDSU/CS0646- IPhone development/Assignment3/Assignment3/ViewController.m:21: warning: will be assumed to return 'id' and accept
+o/Users/Raksha/DEVELOPMENT/SDSU/CS0646- IPhone development/Assignment3/Assignment3/ViewController.m:21: warning: '...' as arguments.)
+o/Users/Raksha/DEVELOPMENT/SDSU/CS0646- IPhone development/Assignment3/Assignment3/ViewController.m:26: error: request for member 'inputText' in something not a structure or union
+o/Users/Raksha/DEVELOPMENT/SDSU/CS0646- IPhone development/Assignment3/Assignment3/ViewController.m:27: error: request for member 'inputX' in something not a structure or union
+o/Users/Raksha/DEVELOPMENT/SDSU/CS0646- IPhone development/Assignment3/Assignment3/ViewController.m:28: error: request for member 'inputY' in something not a structure or union
+o/Users/Raksha/DEVELOPMENT/SDSU/CS0646- IPhone development/Assignment3/Assignment3/ViewController.m:37: error: request for member 'inputY' in something not a structure or union
+o/Users/Raksha/DEVELOPMENT/SDSU/CS0646- IPhone development/Assignment3/Assignment3/ViewController.m:38: error: request for member 'inputY' in something not a structure or union
+o/Users/Raksha/DEVELOPMENT/SDSU/CS0646- IPhone development/Assignment3/Assignment3/ViewController.m:40: error: request for member 'inputX' in something not a structure or union
+o/Users/Raksha/DEVELOPMENT/SDSU/CS0646- IPhone development/Assignment3/Assignment3/ViewController.m:41: error: request for member 'inputX' in something not a structure or union
+o/Users/Raksha/DEVELOPMENT/SDSU/CS0646- IPhone development/Assignment3/Assignment3/ViewController.m:43: error: request for member 'inputText' in something not a structure or union
+o/Users/Raksha/DEVELOPMENT/SDSU/CS0646- IPhone development/Assignment3/Assignment3/ViewController.m:44: error: request for member 'inputText' in something not a structure or union
+o/Users/Raksha/DEVELOPMENT/SDSU/CS0646- IPhone development/Assignment3/Assignment3/ViewController.m: In function '-[ViewController updateDisplay]':
+o/Users/Raksha/DEVELOPMENT/SDSU/CS0646- IPhone development/Assignment3/Assignment3/ViewController.m:55: error: request for member 'inputText' in something not a structure or union
+o/Users/Raksha/DEVELOPMENT/SDSU/CS0646- IPhone development/Assignment3/Assignment3/ViewController.m:56: error: request for member 'inputX' in something not a structure or union
+o/Users/Raksha/DEVELOPMENT/SDSU/CS0646- IPhone development/Assignment3/Assignment3/ViewController.m:57: error: request for member 'inputY' in something not a structure or union
+o/Users/Raksha/DEVELOPMENT/SDSU/CS0646- IPhone development/Assignment3/Assignment3/ViewController.m:60: error: request for member 'movingLabel' in something not a structure or union
+o/Users/Raksha/DEVELOPMENT/SDSU/CS0646- IPhone development/Assignment3/Assignment3/ViewController.m:60: error: request for member 'inputText' in something not a structure or union
+o/Users/Raksha/DEVELOPMENT/SDSU/CS0646- IPhone development/Assignment3/Assignment3/ViewController.m:63: error: request for member 'inputX' in something not a structure or union
+o/Users/Raksha/DEVELOPMENT/SDSU/CS0646- IPhone development/Assignment3/Assignment3/ViewController.m:64: error: request for member 'inputY' in something not a structure or union
+o/Users/Raksha/DEVELOPMENT/SDSU/CS0646- IPhone development/Assignment3/Assignment3/ViewController.m:68: error: request for member 'movingLabel' in something not a structure or union
+o/Users/Raksha/DEVELOPMENT/SDSU/CS0646- IPhone development/Assignment3/Assignment3/ViewController.m: In function '-[ViewController applicationWillTerminate:]':
+o/Users/Raksha/DEVELOPMENT/SDSU/CS0646- IPhone development/Assignment3/Assignment3/ViewController.m:80: error: request for member 'inputText' in something not a structure or union
+o/Users/Raksha/DEVELOPMENT/SDSU/CS0646- IPhone development/Assignment3/Assignment3/ViewController.m:80: error: request for member 'inputX' in something not a structure or union
+o/Users/Raksha/DEVELOPMENT/SDSU/CS0646- IPhone development/Assignment3/Assignment3/ViewController.m:80: error: request for member 'inputY' in something not a structure or union
+lSLF07#2@106"Compile /Users/Raksha/DEVELOPMENT/SDSU/CS0646- IPhone development/Assignment3/Assignment3/ViewController.m434476853#434476853#0(5974"In file included from /Users/Raksha/DEVELOPMENT/SDSU/CS0646- IPhone development/Assignment3/Assignment3/ViewController.m:9:/Users/Raksha/DEVELOPMENT/SDSU/CS0646- IPhone development/Assignment3/Assignment3/ViewController.h:12: error: expected a property attribute before 'weak'/Users/Raksha/DEVELOPMENT/SDSU/CS0646- IPhone development/Assignment3/Assignment3/ViewController.h:13: error: expected a property attribute before 'weak'/Users/Raksha/DEVELOPMENT/SDSU/CS0646- IPhone development/Assignment3/Assignment3/ViewController.h:14: error: expected a property attribute before 'weak'/Users/Raksha/DEVELOPMENT/SDSU/CS0646- IPhone development/Assignment3/Assignment3/ViewController.h:15: error: expected a property attribute before 'strong'/Users/Raksha/DEVELOPMENT/SDSU/CS0646- IPhone development/Assignment3/Assignment3/ViewController.h:17: error: expected a property attribute before 'strong'/Users/Raksha/DEVELOPMENT/SDSU/CS0646- IPhone development/Assignment3/Assignment3/ViewController.h:19: error: expected a property attribute before 'strong'/Users/Raksha/DEVELOPMENT/SDSU/CS0646- IPhone development/Assignment3/Assignment3/ViewController.h:21: error: expected a property attribute before 'strong'/Users/Raksha/DEVELOPMENT/SDSU/CS0646- IPhone development/Assignment3/Assignment3/ViewController.h:23: error: expected a property attribute before 'strong'/Users/Raksha/DEVELOPMENT/SDSU/CS0646- IPhone development/Assignment3/Assignment3/ViewController.m: In function '-[ViewController viewDidLoad]':/Users/Raksha/DEVELOPMENT/SDSU/CS0646- IPhone development/Assignment3/Assignment3/ViewController.m:21: warning: 'ViewController' may not respond to '-saveFilePath'/Users/Raksha/DEVELOPMENT/SDSU/CS0646- IPhone development/Assignment3/Assignment3/ViewController.m:21: warning: (Messages without a matching method signature/Users/Raksha/DEVELOPMENT/SDSU/CS0646- IPhone development/Assignment3/Assignment3/ViewController.m:21: warning: will be assumed to return 'id' and accept/Users/Raksha/DEVELOPMENT/SDSU/CS0646- IPhone development/Assignment3/Assignment3/ViewController.m:21: warning: '...' as arguments.)/Users/Raksha/DEVELOPMENT/SDSU/CS0646- IPhone development/Assignment3/Assignment3/ViewController.m:26: error: request for member 'inputText' in something not a structure or union/Users/Raksha/DEVELOPMENT/SDSU/CS0646- IPhone development/Assignment3/Assignment3/ViewController.m:27: error: request for member 'inputX' in something not a structure or union/Users/Raksha/DEVELOPMENT/SDSU/CS0646- IPhone development/Assignment3/Assignment3/ViewController.m:28: error: request for member 'inputY' in something not a structure or union/Users/Raksha/DEVELOPMENT/SDSU/CS0646- IPhone development/Assignment3/Assignment3/ViewController.m:37: error: request for member 'inputY' in something not a structure or union/Users/Raksha/DEVELOPMENT/SDSU/CS0646- IPhone development/Assignment3/Assignment3/ViewController.m:38: error: request for member 'inputY' in something not a structure or union/Users/Raksha/DEVELOPMENT/SDSU/CS0646- IPhone development/Assignment3/Assignment3/ViewController.m:40: error: request for member 'inputX' in something not a structure or union/Users/Raksha/DEVELOPMENT/SDSU/CS0646- IPhone development/Assignment3/Assignment3/ViewController.m:41: error: request for member 'inputX' in something not a structure or union/Users/Raksha/DEVELOPMENT/SDSU/CS0646- IPhone development/Assignment3/Assignment3/ViewController.m:43: error: request for member 'inputText' in something not a structure or union/Users/Raksha/DEVELOPMENT/SDSU/CS0646- IPhone development/Assignment3/Assignment3/ViewController.m:44: error: request for member 'inputText' in something not a structure or union/Users/Raksha/DEVELOPMENT/SDSU/CS0646- IPhone development/Assignment3/Assignment3/ViewController.m: In function '-[ViewController updateDisplay]':/Users/Raksha/DEVELOPMENT/SDSU/CS0646- IPhone development/Assignment3/Assignment3/ViewController.m:55: error: request for member 'inputText' in something not a structure or union/Users/Raksha/DEVELOPMENT/SDSU/CS0646- IPhone development/Assignment3/Assignment3/ViewController.m:56: error: request for member 'inputX' in something not a structure or union/Users/Raksha/DEVELOPMENT/SDSU/CS0646- IPhone development/Assignment3/Assignment3/ViewController.m:57: error: request for member 'inputY' in something not a structure or union/Users/Raksha/DEVELOPMENT/SDSU/CS0646- IPhone development/Assignment3/Assignment3/ViewController.m:60: error: request for member 'movingLabel' in something not a structure or union/Users/Raksha/DEVELOPMENT/SDSU/CS0646- IPhone development/Assignment3/Assignment3/ViewController.m:60: error: request for member 'inputText' in something not a structure or union/Users/Raksha/DEVELOPMENT/SDSU/CS0646- IPhone development/Assignment3/Assignment3/ViewController.m:63: error: request for member 'inputX' in something not a structure or union/Users/Raksha/DEVELOPMENT/SDSU/CS0646- IPhone development/Assignment3/Assignment3/ViewController.m:64: error: request for member 'inputY' in something not a structure or union/Users/Raksha/DEVELOPMENT/SDSU/CS0646- IPhone development/Assignment3/Assignment3/ViewController.m:68: error: request for member 'movingLabel' in something not a structure or union/Users/Raksha/DEVELOPMENT/SDSU/CS0646- IPhone development/Assignment3/Assignment3/ViewController.m: In function '-[ViewController applicationWillTerminate:]':/Users/Raksha/DEVELOPMENT/SDSU/CS0646- IPhone development/Assignment3/Assignment3/ViewController.m:80: error: request for member 'inputText' in something not a structure or union/Users/Raksha/DEVELOPMENT/SDSU/CS0646- IPhone development/Assignment3/Assignment3/ViewController.m:80: error: request for member 'inputX' in something not a structure or union/Users/Raksha/DEVELOPMENT/SDSU/CS0646- IPhone development/Assignment3/Assignment3/ViewController.m:80: error: request for member 'inputY' in something not a structure or union30(4@43"Expected a property attribute before 'weak'434476853#124#154#2(7@120"In file included from /Users/Raksha/DEVELOPMENT/SDSU/CS0646- IPhone development/Assignment3/Assignment3/ViewController.m434476853#18446744073709551615#0#0(6@98"/Users/Raksha/DEVELOPMENT/SDSU/CS0646- IPhone development/Assignment3/Assignment3/ViewController.m433913525#9#0#9#0#0"0(13@145"Expected a property attribute before 'weak' in /Users/Raksha/DEVELOPMENT/SDSU/CS0646- IPhone development/Assignment3/Assignment3/ViewController.h434476853#18446744073709551615#0#0(6@98"/Users/Raksha/DEVELOPMENT/SDSU/CS0646- IPhone development/Assignment3/Assignment3/ViewController.h433896065#12#0#12#0#0"0(6@98"/Users/Raksha/DEVELOPMENT/SDSU/CS0646- IPhone development/Assignment3/Assignment3/ViewController.h433896065#12#0#12#0#19"expected * before *0(4@43"Expected a property attribute before 'weak'434476853#278#154#2(7@120"In file included from /Users/Raksha/DEVELOPMENT/SDSU/CS0646- IPhone development/Assignment3/Assignment3/ViewController.m434476853#18446744073709551615#0#0(6@98"/Users/Raksha/DEVELOPMENT/SDSU/CS0646- IPhone development/Assignment3/Assignment3/ViewController.m433913525#9#0#9#0#0"0(13@145"Expected a property attribute before 'weak' in /Users/Raksha/DEVELOPMENT/SDSU/CS0646- IPhone development/Assignment3/Assignment3/ViewController.h434476853#18446744073709551615#0#0(6@98"/Users/Raksha/DEVELOPMENT/SDSU/CS0646- IPhone development/Assignment3/Assignment3/ViewController.h433896065#13#0#13#0#0"0(6@98"/Users/Raksha/DEVELOPMENT/SDSU/CS0646- IPhone development/Assignment3/Assignment3/ViewController.h433896065#13#0#13#0#19"expected * before *0(4@43"Expected a property attribute before 'weak'434476853#432#154#2(7@120"In file included from /Users/Raksha/DEVELOPMENT/SDSU/CS0646- IPhone development/Assignment3/Assignment3/ViewController.m434476853#18446744073709551615#0#0(6@98"/Users/Raksha/DEVELOPMENT/SDSU/CS0646- IPhone development/Assignment3/Assignment3/ViewController.m433913525#9#0#9#0#0"0(13@145"Expected a property attribute before 'weak' in /Users/Raksha/DEVELOPMENT/SDSU/CS0646- IPhone development/Assignment3/Assignment3/ViewController.h434476853#18446744073709551615#0#0(6@98"/Users/Raksha/DEVELOPMENT/SDSU/CS0646- IPhone development/Assignment3/Assignment3/ViewController.h433896065#14#0#14#0#0"0(6@98"/Users/Raksha/DEVELOPMENT/SDSU/CS0646- IPhone development/Assignment3/Assignment3/ViewController.h433896065#14#0#14#0#19"expected * before *0(4@45"Expected a property attribute before 'strong'434476853#586#156#2(7@120"In file included from /Users/Raksha/DEVELOPMENT/SDSU/CS0646- IPhone development/Assignment3/Assignment3/ViewController.m434476853#18446744073709551615#0#0(6@98"/Users/Raksha/DEVELOPMENT/SDSU/CS0646- IPhone development/Assignment3/Assignment3/ViewController.m433913525#9#0#9#0#0"0(13@147"Expected a property attribute before 'strong' in /Users/Raksha/DEVELOPMENT/SDSU/CS0646- IPhone development/Assignment3/Assignment3/ViewController.h434476853#18446744073709551615#0#0(6@98"/Users/Raksha/DEVELOPMENT/SDSU/CS0646- IPhone development/Assignment3/Assignment3/ViewController.h433896065#15#0#15#0#0"0(6@98"/Users/Raksha/DEVELOPMENT/SDSU/CS0646- IPhone development/Assignment3/Assignment3/ViewController.h433896065#15#0#15#0#19"expected * before *0(4@45"Expected a property attribute before 'strong'434476853#742#156#2(7@120"In file included from /Users/Raksha/DEVELOPMENT/SDSU/CS0646- IPhone development/Assignment3/Assignment3/ViewController.m434476853#18446744073709551615#0#0(6@98"/Users/Raksha/DEVELOPMENT/SDSU/CS0646- IPhone development/Assignment3/Assignment3/ViewController.m433913525#9#0#9#0#0"0(13@147"Expected a property attribute before 'strong' in /Users/Raksha/DEVELOPMENT/SDSU/CS0646- IPhone development/Assignment3/Assignment3/ViewController.h434476853#18446744073709551615#0#0(6@98"/Users/Raksha/DEVELOPMENT/SDSU/CS0646- IPhone development/Assignment3/Assignment3/ViewController.h433896065#17#0#17#0#0"0(6@98"/Users/Raksha/DEVELOPMENT/SDSU/CS0646- IPhone development/Assignment3/Assignment3/ViewController.h433896065#17#0#17#0#19"expected * before *0(4@45"Expected a property attribute before 'strong'434476853#898#156#2(7@120"In file included from /Users/Raksha/DEVELOPMENT/SDSU/CS0646- IPhone development/Assignment3/Assignment3/ViewController.m434476853#18446744073709551615#0#0(6@98"/Users/Raksha/DEVELOPMENT/SDSU/CS0646- IPhone development/Assignment3/Assignment3/ViewController.m433913525#9#0#9#0#0"0(13@147"Expected a property attribute before 'strong' in /Users/Raksha/DEVELOPMENT/SDSU/CS0646- IPhone development/Assignment3/Assignment3/ViewController.h434476853#18446744073709551615#0#0(6@98"/Users/Raksha/DEVELOPMENT/SDSU/CS0646- IPhone development/Assignment3/Assignment3/ViewController.h433896065#19#0#19#0#0"0(6@98"/Users/Raksha/DEVELOPMENT/SDSU/CS0646- IPhone development/Assignment3/Assignment3/ViewController.h433896065#19#0#19#0#19"expected * before *0(4@45"Expected a property attribute before 'strong'434476853#1054#156#2(7@120"In file included from /Users/Raksha/DEVELOPMENT/SDSU/CS0646- IPhone development/Assignment3/Assignment3/ViewController.m434476853#18446744073709551615#0#0(6@98"/Users/Raksha/DEVELOPMENT/SDSU/CS0646- IPhone development/Assignment3/Assignment3/ViewController.m433913525#9#0#9#0#0"0(13@147"Expected a property attribute before 'strong' in /Users/Raksha/DEVELOPMENT/SDSU/CS0646- IPhone development/Assignment3/Assignment3/ViewController.h434476853#18446744073709551615#0#0(6@98"/Users/Raksha/DEVELOPMENT/SDSU/CS0646- IPhone development/Assignment3/Assignment3/ViewController.h433896065#21#0#21#0#0"0(6@98"/Users/Raksha/DEVELOPMENT/SDSU/CS0646- IPhone development/Assignment3/Assignment3/ViewController.h433896065#21#0#21#0#19"expected * before *0(4@45"Expected a property attribute before 'strong'434476853#1210#156#2(7@120"In file included from /Users/Raksha/DEVELOPMENT/SDSU/CS0646- IPhone development/Assignment3/Assignment3/ViewController.m434476853#18446744073709551615#0#0(6@98"/Users/Raksha/DEVELOPMENT/SDSU/CS0646- IPhone development/Assignment3/Assignment3/ViewController.m433913525#9#0#9#0#0"0(13@147"Expected a property attribute before 'strong' in /Users/Raksha/DEVELOPMENT/SDSU/CS0646- IPhone development/Assignment3/Assignment3/ViewController.h434476853#18446744073709551615#0#0(6@98"/Users/Raksha/DEVELOPMENT/SDSU/CS0646- IPhone development/Assignment3/Assignment3/ViewController.h433896065#23#0#23#0#0"0(6@98"/Users/Raksha/DEVELOPMENT/SDSU/CS0646- IPhone development/Assignment3/Assignment3/ViewController.h433896065#23#0#23#0#19"expected * before *0(22@51"'ViewController' may not respond to '-saveFilePath'434476853#1511#164#0(6@98"/Users/Raksha/DEVELOPMENT/SDSU/CS0646- IPhone development/Assignment3/Assignment3/ViewController.m433913525#21#0#21#0#26"'*' may not respond to '*'0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)434476853#1675#158#0(6@98"/Users/Raksha/DEVELOPMENT/SDSU/CS0646- IPhone development/Assignment3/Assignment3/ViewController.m433913525#21#0#21#0#0"0(4@68"Request for member 'inputText' in something not a structure or union434476853#2120#179#0(6@98"/Users/Raksha/DEVELOPMENT/SDSU/CS0646- IPhone development/Assignment3/Assignment3/ViewController.m433913525#26#0#26#0#0"0(4@65"Request for member 'inputX' in something not a structure or union434476853#2299#176#0(6@98"/Users/Raksha/DEVELOPMENT/SDSU/CS0646- IPhone development/Assignment3/Assignment3/ViewController.m433913525#27#0#27#0#0"0(4@65"Request for member 'inputY' in something not a structure or union434476853#2475#176#0(6@98"/Users/Raksha/DEVELOPMENT/SDSU/CS0646- IPhone development/Assignment3/Assignment3/ViewController.m433913525#28#0#28#0#0"0(4@65"Request for member 'inputY' in something not a structure or union434476853#2651#176#0(6@98"/Users/Raksha/DEVELOPMENT/SDSU/CS0646- IPhone development/Assignment3/Assignment3/ViewController.m433913525#37#0#37#0#0"0(4@65"Request for member 'inputY' in something not a structure or union434476853#2827#176#0(6@98"/Users/Raksha/DEVELOPMENT/SDSU/CS0646- IPhone development/Assignment3/Assignment3/ViewController.m433913525#38#0#38#0#0"0(4@65"Request for member 'inputX' in something not a structure or union434476853#3003#176#0(6@98"/Users/Raksha/DEVELOPMENT/SDSU/CS0646- IPhone development/Assignment3/Assignment3/ViewController.m433913525#40#0#40#0#0"0(4@65"Request for member 'inputX' in something not a structure or union434476853#3179#176#0(6@98"/Users/Raksha/DEVELOPMENT/SDSU/CS0646- IPhone development/Assignment3/Assignment3/ViewController.m433913525#41#0#41#0#0"0(4@68"Request for member 'inputText' in something not a structure or union434476853#3355#179#0(6@98"/Users/Raksha/DEVELOPMENT/SDSU/CS0646- IPhone development/Assignment3/Assignment3/ViewController.m433913525#43#0#43#0#0"0(4@68"Request for member 'inputText' in something not a structure or union434476853#3534#179#0(6@98"/Users/Raksha/DEVELOPMENT/SDSU/CS0646- IPhone development/Assignment3/Assignment3/ViewController.m433913525#44#0#44#0#0"0(4@68"Request for member 'inputText' in something not a structure or union434476853#3860#179#0(6@98"/Users/Raksha/DEVELOPMENT/SDSU/CS0646- IPhone development/Assignment3/Assignment3/ViewController.m433913525#55#0#55#0#0"0(4@65"Request for member 'inputX' in something not a structure or union434476853#4039#176#0(6@98"/Users/Raksha/DEVELOPMENT/SDSU/CS0646- IPhone development/Assignment3/Assignment3/ViewController.m433913525#56#0#56#0#0"0(4@65"Request for member 'inputY' in something not a structure or union434476853#4215#176#0(6@98"/Users/Raksha/DEVELOPMENT/SDSU/CS0646- IPhone development/Assignment3/Assignment3/ViewController.m433913525#57#0#57#0#0"0(4@70"Request for member 'movingLabel' in something not a structure or union434476853#4391#181#0(6@98"/Users/Raksha/DEVELOPMENT/SDSU/CS0646- IPhone development/Assignment3/Assignment3/ViewController.m433913525#60#0#60#0#0"0(4@68"Request for member 'inputText' in something not a structure or union434476853#4572#179#0(6@98"/Users/Raksha/DEVELOPMENT/SDSU/CS0646- IPhone development/Assignment3/Assignment3/ViewController.m433913525#60#0#60#0#0"0(4@65"Request for member 'inputX' in something not a structure or union434476853#4751#176#0(6@98"/Users/Raksha/DEVELOPMENT/SDSU/CS0646- IPhone development/Assignment3/Assignment3/ViewController.m433913525#63#0#63#0#0"0(4@65"Request for member 'inputY' in something not a structure or union434476853#4927#176#0(6@98"/Users/Raksha/DEVELOPMENT/SDSU/CS0646- IPhone development/Assignment3/Assignment3/ViewController.m433913525#64#0#64#0#0"0(4@70"Request for member 'movingLabel' in something not a structure or union434476853#5103#181#0(6@98"/Users/Raksha/DEVELOPMENT/SDSU/CS0646- IPhone development/Assignment3/Assignment3/ViewController.m433913525#68#0#68#0#0"0(4@68"Request for member 'inputText' in something not a structure or union434476853#5443#179#0(6@98"/Users/Raksha/DEVELOPMENT/SDSU/CS0646- IPhone development/Assignment3/Assignment3/ViewController.m433913525#80#0#80#0#0"0(4@65"Request for member 'inputX' in something not a structure or union434476853#5622#176#0(6@98"/Users/Raksha/DEVELOPMENT/SDSU/CS0646- IPhone development/Assignment3/Assignment3/ViewController.m433913525#80#0#80#0#0"0(4@65"Request for member 'inputY' in something not a structure or union434476853#5798#176#0(6@98"/Users/Raksha/DEVELOPMENT/SDSU/CS0646- IPhone development/Assignment3/Assignment3/ViewController.m433913525#80#0#80#0#0"0(0#0#98"/Users/Raksha/DEVELOPMENT/SDSU/CS0646- IPhone development/Assignment3/Assignment3/ViewController.m17196733184#2422"    cd "/Users/Raksha/DEVELOPMENT/SDSU/CS0646- IPhone development/Assignment3"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wunused-function -Wunused-variable -Wshorten-64-to-32 -Wundeclared-selector -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/Users/Raksha/DEVELOPMENT/SDSU/CS0646- IPhone development/Assignment3/build/Assignment3.build/Debug-iphonesimulator/Assignment3.build/Assignment3-generated-files.hmap" "-I/Users/Raksha/DEVELOPMENT/SDSU/CS0646- IPhone development/Assignment3/build/Assignment3.build/Debug-iphonesimulator/Assignment3.build/Assignment3-own-target-headers.hmap" "-I/Users/Raksha/DEVELOPMENT/SDSU/CS0646- IPhone development/Assignment3/build/Assignment3.build/Debug-iphonesimulator/Assignment3.build/Assignment3-all-target-headers.hmap" -iquote "/Users/Raksha/DEVELOPMENT/SDSU/CS0646- IPhone development/Assignment3/build/Assignment3.build/Debug-iphonesimulator/Assignment3.build/Assignment3-project-headers.hmap" "-F/Users/Raksha/DEVELOPMENT/SDSU/CS0646- IPhone development/Assignment3/build/Debug-iphonesimulator" "-I/Users/Raksha/DEVELOPMENT/SDSU/CS0646- IPhone development/Assignment3/build/Debug-iphonesimulator/include" "-I/Users/Raksha/DEVELOPMENT/SDSU/CS0646- IPhone development/Assignment3/build/Assignment3.build/Debug-iphonesimulator/Assignment3.build/DerivedSources/i386" "-I/Users/Raksha/DEVELOPMENT/SDSU/CS0646- IPhone development/Assignment3/build/Assignment3.build/Debug-iphonesimulator/Assignment3.build/DerivedSources" -include /var/folders/k5/0k2sfvhj7113y4nwtk9xqy8h0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Assignment3-Prefix-etujxirribyrulekvhrfyjgbejcl/Assignment3-Prefix.pch -c "/Users/Raksha/DEVELOPMENT/SDSU/CS0646- IPhone development/Assignment3/Assignment3/ViewController.m" -o "/Users/Raksha/DEVELOPMENT/SDSU/CS0646- IPhone development/Assignment3/build/Assignment3.build/Debug-iphonesimulator/Assignment3.build/Objects-normal/i386/ViewController.o"1#
+
+CCompileC build/Assignment3.build/Debug-iphonesimulator/Assignment3.build/Objects-normal/i386/main.o "/Users/Raksha/DEVELOPMENT/SDSU/CS0646- IPhone development/Assignment3/Assignment3/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s434476853.744359
+e434476853.799966
+r0
+xCompileC
+xbuild/Assignment3.build/Debug-iphonesimulator/Assignment3.build/Objects-normal/i386/main.o
+x/Users/Raksha/DEVELOPMENT/SDSU/CS0646- IPhone development/Assignment3/Assignment3/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+oIn file included from /Users/Raksha/DEVELOPMENT/SDSU/CS0646- IPhone development/Assignment3/Assignment3/main.m:11:
+o/Users/Raksha/DEVELOPMENT/SDSU/CS0646- IPhone development/Assignment3/Assignment3/AppDelegate.h:13: error: expected a property attribute before 'strong'
+o/Users/Raksha/DEVELOPMENT/SDSU/CS0646- IPhone development/Assignment3/Assignment3/main.m: In function 'main':
+o/Users/Raksha/DEVELOPMENT/SDSU/CS0646- IPhone development/Assignment3/Assignment3/main.m:15: error: expected expression before '@' token
+lSLF07#2@96"Compile /Users/Raksha/DEVELOPMENT/SDSU/CS0646- IPhone development/Assignment3/Assignment3/main.m434476853#434476853#0(515"In file included from /Users/Raksha/DEVELOPMENT/SDSU/CS0646- IPhone development/Assignment3/Assignment3/main.m:11:/Users/Raksha/DEVELOPMENT/SDSU/CS0646- IPhone development/Assignment3/Assignment3/AppDelegate.h:13: error: expected a property attribute before 'strong'/Users/Raksha/DEVELOPMENT/SDSU/CS0646- IPhone development/Assignment3/Assignment3/main.m: In function 'main':/Users/Raksha/DEVELOPMENT/SDSU/CS0646- IPhone development/Assignment3/Assignment3/main.m:15: error: expected expression before '@' token2(4@45"Expected a property attribute before 'strong'434476853#115#153#2(7@110"In file included from /Users/Raksha/DEVELOPMENT/SDSU/CS0646- IPhone development/Assignment3/Assignment3/main.m434476853#18446744073709551615#0#0(6@88"/Users/Raksha/DEVELOPMENT/SDSU/CS0646- IPhone development/Assignment3/Assignment3/main.m433892059#11#0#11#0#0"0(13@144"Expected a property attribute before 'strong' in /Users/Raksha/DEVELOPMENT/SDSU/CS0646- IPhone development/Assignment3/Assignment3/AppDelegate.h434476853#18446744073709551615#0#0(6@95"/Users/Raksha/DEVELOPMENT/SDSU/CS0646- IPhone development/Assignment3/Assignment3/AppDelegate.h433892254#13#0#13#0#0"0(6@95"/Users/Raksha/DEVELOPMENT/SDSU/CS0646- IPhone development/Assignment3/Assignment3/AppDelegate.h433892254#13#0#13#0#19"expected * before *0(4@36"Expected expression before '@' token434476853#378#137#0(6@88"/Users/Raksha/DEVELOPMENT/SDSU/CS0646- IPhone development/Assignment3/Assignment3/main.m433892059#15#0#15#0#19"expected * before *0(0#0#88"/Users/Raksha/DEVELOPMENT/SDSU/CS0646- IPhone development/Assignment3/Assignment3/main.m4317954048#2402"    cd "/Users/Raksha/DEVELOPMENT/SDSU/CS0646- IPhone development/Assignment3"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wunused-function -Wunused-variable -Wshorten-64-to-32 -Wundeclared-selector -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/Users/Raksha/DEVELOPMENT/SDSU/CS0646- IPhone development/Assignment3/build/Assignment3.build/Debug-iphonesimulator/Assignment3.build/Assignment3-generated-files.hmap" "-I/Users/Raksha/DEVELOPMENT/SDSU/CS0646- IPhone development/Assignment3/build/Assignment3.build/Debug-iphonesimulator/Assignment3.build/Assignment3-own-target-headers.hmap" "-I/Users/Raksha/DEVELOPMENT/SDSU/CS0646- IPhone development/Assignment3/build/Assignment3.build/Debug-iphonesimulator/Assignment3.build/Assignment3-all-target-headers.hmap" -iquote "/Users/Raksha/DEVELOPMENT/SDSU/CS0646- IPhone development/Assignment3/build/Assignment3.build/Debug-iphonesimulator/Assignment3.build/Assignment3-project-headers.hmap" "-F/Users/Raksha/DEVELOPMENT/SDSU/CS0646- IPhone development/Assignment3/build/Debug-iphonesimulator" "-I/Users/Raksha/DEVELOPMENT/SDSU/CS0646- IPhone development/Assignment3/build/Debug-iphonesimulator/include" "-I/Users/Raksha/DEVELOPMENT/SDSU/CS0646- IPhone development/Assignment3/build/Assignment3.build/Debug-iphonesimulator/Assignment3.build/DerivedSources/i386" "-I/Users/Raksha/DEVELOPMENT/SDSU/CS0646- IPhone development/Assignment3/build/Assignment3.build/Debug-iphonesimulator/Assignment3.build/DerivedSources" -include /var/folders/k5/0k2sfvhj7113y4nwtk9xqy8h0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Assignment3-Prefix-etujxirribyrulekvhrfyjgbejcl/Assignment3-Prefix.pch -c "/Users/Raksha/DEVELOPMENT/SDSU/CS0646- IPhone development/Assignment3/Assignment3/main.m" -o "/Users/Raksha/DEVELOPMENT/SDSU/CS0646- IPhone development/Assignment3/build/Assignment3.build/Debug-iphonesimulator/Assignment3.build/Objects-normal/i386/main.o"1#
+
+CCopyStringsFile "/Users/Raksha/DEVELOPMENT/SDSU/CS0646- IPhone development/Assignment3/build/Debug-iphonesimulator/Assignment3.app/en.lproj/InfoPlist.strings" Assignment3/en.lproj/InfoPlist.strings
+s434476853.800892
+e434476855.565840
+r1
+xCopyStringsFile
+x/Users/Raksha/DEVELOPMENT/SDSU/CS0646- IPhone development/Assignment3/build/Debug-iphonesimulator/Assignment3.app/en.lproj/InfoPlist.strings
+xAssignment3/en.lproj/InfoPlist.strings
+lSLF07#2@43"Copy Assignment3/en.lproj/InfoPlist.strings434476853#434476857#0(0"0(0#0#108"/Users/Raksha/DEVELOPMENT/SDSU/CS0646- IPhone development/Assignment3/Assignment3/en.lproj/InfoPlist.strings4317954048#565"    cd "/Users/Raksha/DEVELOPMENT/SDSU/CS0646- IPhone development/Assignment3"    setenv ICONV /usr/bin/iconv    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-8 --outputencoding binary Assignment3/en.lproj/InfoPlist.strings --outdir "/Users/Raksha/DEVELOPMENT/SDSU/CS0646- IPhone development/Assignment3/build/Debug-iphonesimulator/Assignment3.app/en.lproj"0#
+
+CCpResource build/Debug-iphonesimulator/Assignment3.app/Base.lproj/Main.storyboard Assignment3/Base.lproj/Main.storyboard
+s434476853.859920
+e434476853.990092
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Assignment3.app/Base.lproj/Main.storyboard
+xAssignment3/Base.lproj/Main.storyboard
+lSLF07#2@43"Copy Assignment3/Base.lproj/Main.storyboard434476853#434476854#0(0"0(0#0#108"/Users/Raksha/DEVELOPMENT/SDSU/CS0646- IPhone development/Assignment3/Assignment3/Base.lproj/Main.storyboard4317954048#610"    cd "/Users/Raksha/DEVELOPMENT/SDSU/CS0646- IPhone development/Assignment3"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/Raksha/DEVELOPMENT/SDSU/CS0646- IPhone development/Assignment3/Assignment3/Base.lproj/Main.storyboard" "/Users/Raksha/DEVELOPMENT/SDSU/CS0646- IPhone development/Assignment3/build/Debug-iphonesimulator/Assignment3.app/Base.lproj"0#
+
+CCpResource build/Debug-iphonesimulator/Assignment3.app/Images.xcassets Assignment3/Images.xcassets
+s434476853.800060
+e434476853.859833
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Assignment3.app/Images.xcassets
+xAssignment3/Images.xcassets
+lSLF07#2@32"Copy Assignment3/Images.xcassets434476853#434476853#0(0"0(0#0#97"/Users/Raksha/DEVELOPMENT/SDSU/CS0646- IPhone development/Assignment3/Assignment3/Images.xcassets4317954048#588"    cd "/Users/Raksha/DEVELOPMENT/SDSU/CS0646- IPhone development/Assignment3"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/Raksha/DEVELOPMENT/SDSU/CS0646- IPhone development/Assignment3/Assignment3/Images.xcassets" "/Users/Raksha/DEVELOPMENT/SDSU/CS0646- IPhone development/Assignment3/build/Debug-iphonesimulator/Assignment3.app"0#
+
+CGenerateDSYMFile "/Users/Raksha/DEVELOPMENT/SDSU/CS0646- IPhone development/Assignment3/build/Debug-iphonesimulator/Assignment3.app.dSYM" "/Users/Raksha/DEVELOPMENT/SDSU/CS0646- IPhone development/Assignment3/build/Debug-iphonesimulator/Assignment3.app/Assignment3"
+r0
+
+CLd "/Users/Raksha/DEVELOPMENT/SDSU/CS0646- IPhone development/Assignment3/build/Debug-iphonesimulator/Assignment3.app/Assignment3" normal i386
+r0
+
+CProcessInfoPlistFile "/Users/Raksha/DEVELOPMENT/SDSU/CS0646- IPhone development/Assignment3/build/Debug-iphonesimulator/Assignment3.app/Info.plist" Assignment3/Assignment3-Info.plist
+s434476851.743514
+e434476851.847170
+r1
+xProcessInfoPlistFile
+x/Users/Raksha/DEVELOPMENT/SDSU/CS0646- IPhone development/Assignment3/build/Debug-iphonesimulator/Assignment3.app/Info.plist
+xAssignment3/Assignment3-Info.plist
+lSLF07#2@42"Process Assignment3/Assignment3-Info.plist434476851#434476851#0(0"0(0#0#104"/Users/Raksha/DEVELOPMENT/SDSU/CS0646- IPhone development/Assignment3/Assignment3/Assignment3-Info.plist17198915584#602"    cd "/Users/Raksha/DEVELOPMENT/SDSU/CS0646- IPhone development/Assignment3"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Assignment3/Assignment3-Info.plist -genpkginfo "/Users/Raksha/DEVELOPMENT/SDSU/CS0646- IPhone development/Assignment3/build/Debug-iphonesimulator/Assignment3.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/Users/Raksha/DEVELOPMENT/SDSU/CS0646- IPhone development/Assignment3/build/Debug-iphonesimulator/Assignment3.app/Info.plist"0#
+
+CProcessPCH /var/folders/k5/0k2sfvhj7113y4nwtk9xqy8h0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Assignment3-Prefix-etujxirribyrulekvhrfyjgbejcl/Assignment3-Prefix.pch.gch Assignment3/Assignment3-Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s434476851.847487
+e434476853.494179
+r1
+xProcessPCH
+x/var/folders/k5/0k2sfvhj7113y4nwtk9xqy8h0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Assignment3-Prefix-etujxirribyrulekvhrfyjgbejcl/Assignment3-Prefix.pch.gch
+xAssignment3/Assignment3-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/Raksha/DEVELOPMENT/SDSU/CS0646- IPhone development/Assignment3/Assignment3/Assignment3-Prefix.pch:10:2: warning: #warning "This project uses features only available in iOS SDK 5.0 and later."
+lSLF07#2@45"Precompile Assignment3/Assignment3-Prefix.pch434476851#434476853#0(199"/Users/Raksha/DEVELOPMENT/SDSU/CS0646- IPhone development/Assignment3/Assignment3/Assignment3-Prefix.pch:10:2: warning: #warning "This project uses features only available in iOS SDK 5.0 and later."1(22@78"#warning "This project uses features only available in iOS SDK 5.0 and later."434476852#0#199#0(6@104"/Users/Raksha/DEVELOPMENT/SDSU/CS0646- IPhone development/Assignment3/Assignment3/Assignment3-Prefix.pch433892059#10#0#10#0#12"#warning "*"0(0#0#104"/Users/Raksha/DEVELOPMENT/SDSU/CS0646- IPhone development/Assignment3/Assignment3/Assignment3-Prefix.pch4317954048#2257"    cd "/Users/Raksha/DEVELOPMENT/SDSU/CS0646- IPhone development/Assignment3"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wunused-function -Wunused-variable -Wshorten-64-to-32 -Wundeclared-selector -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/Users/Raksha/DEVELOPMENT/SDSU/CS0646- IPhone development/Assignment3/build/Assignment3.build/Debug-iphonesimulator/Assignment3.build/Assignment3-generated-files.hmap" "-I/Users/Raksha/DEVELOPMENT/SDSU/CS0646- IPhone development/Assignment3/build/Assignment3.build/Debug-iphonesimulator/Assignment3.build/Assignment3-own-target-headers.hmap" "-I/Users/Raksha/DEVELOPMENT/SDSU/CS0646- IPhone development/Assignment3/build/Assignment3.build/Debug-iphonesimulator/Assignment3.build/Assignment3-all-target-headers.hmap" -iquote "/Users/Raksha/DEVELOPMENT/SDSU/CS0646- IPhone development/Assignment3/build/Assignment3.build/Debug-iphonesimulator/Assignment3.build/Assignment3-project-headers.hmap" "-F/Users/Raksha/DEVELOPMENT/SDSU/CS0646- IPhone development/Assignment3/build/Debug-iphonesimulator" "-I/Users/Raksha/DEVELOPMENT/SDSU/CS0646- IPhone development/Assignment3/build/Debug-iphonesimulator/include" "-I/Users/Raksha/DEVELOPMENT/SDSU/CS0646- IPhone development/Assignment3/build/Assignment3.build/Debug-iphonesimulator/Assignment3.build/DerivedSources/i386" "-I/Users/Raksha/DEVELOPMENT/SDSU/CS0646- IPhone development/Assignment3/build/Assignment3.build/Debug-iphonesimulator/Assignment3.build/DerivedSources" -c "/Users/Raksha/DEVELOPMENT/SDSU/CS0646- IPhone development/Assignment3/Assignment3/Assignment3-Prefix.pch" -o /var/folders/k5/0k2sfvhj7113y4nwtk9xqy8h0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Assignment3-Prefix-etujxirribyrulekvhrfyjgbejcl/Assignment3-Prefix.pch.gch0#
+
+CTouch "/Users/Raksha/DEVELOPMENT/SDSU/CS0646- IPhone development/Assignment3/build/Debug-iphonesimulator/Assignment3.app"
+r0
+

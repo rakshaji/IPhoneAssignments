@@ -1,0 +1,17 @@
+Answer 2 - In debug mode, stepping over till k=3 and changing n to -1 resulted in following observations:
+1) The function continued excecution for k=3 unaffectedly.
+2) The next iteration for k=4 did not proceed further with execution. The condition in for loop failed for 4  <= -1. Hence, it exited the method.
+
+Answer 4 - The value of x4 changes to 10.
+
+Answer 6 - The Time Profiler showed different results everytime. One of the results is:
+1) sin function = 8.7%
+2) printf function = 99.0%
+
+Answer 7 - The iOS 2.0 added the method description to the class NSObject.
+
+Answer 8 - Instead of stringWithContentsOfURL method, we can use stringWithContentsOfURL:encoding:error: or stringWithContentsOfURL:usedEncoding:error: method. It is deprecated because it interpreted contents of the file in either of these ways i.e. unicode, UTF-8 or C string encoding. Since the default C string encoding varies with the user's configuration, it was difficult to rely on this method. The new methods returns nil if there is any encoding error.
+
+Answer 9 - The valueForKey: and objectForKey: both returns the value associated with a given key. Firstly, they are different in their syntax i.e. valueForKey: requires key as a string whereas objectForKey accepts any object as a key, not just strings. Secondly, in valueForKey: if key does not start with "@", it invokes objectForKey:. If key does start with "@", it strips the “@” and invokes [super valueForKey:] with the rest of the key.
+
+Answer 10 - The NSArray class conforms to the NSFastEnumeration, NSObject, NSSecureCoding, NSCopying, NSMutableCopying protocols.
